@@ -1,2 +1,4 @@
 # Backend
-Nesse diretório reúno todos os meus projetos como desenvolvedor Back-end.
+Nesse diretório reúno todos os meus projetos pessoais e desenvolvidos nos cursos como desenvolvedor Back-end.
+-Node.js
+-SQL
